@@ -77,6 +77,8 @@ target/
 
 # exclude data from source control by default
 #/data/
+Training_Batch_Files/
+Prediction_Batch_files/
 
 # Mac OS-specific storage files
 .DS_Store
